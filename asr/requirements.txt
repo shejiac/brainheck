@@ -6,3 +6,4 @@ torch
 transformers
 torchaudio
 openai-whisper
+jiwer==3.0.1
